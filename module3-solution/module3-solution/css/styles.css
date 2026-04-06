@@ -1,0 +1,50 @@
+#header-nav {
+  background-color: #f8f8f8;
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #557c3e !important;
+  text-transform: uppercase;
+}
+
+#nav-list {
+  background-color: #ffffff;
+  margin: 0;
+  border: 1px solid #ddd;
+}
+
+#nav-list li a {
+  color: #333;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+#nav-list li a:hover {
+  background-color: #f0f0f0;
+}
+
+#main-content {
+  background-color: #e7e7e7;
+  padding: 20px;
+  margin-top: 15px;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.tall-box {
+  height: 1200px;
+  background-color: #f0f0f0;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px dashed #ccc;
+}
